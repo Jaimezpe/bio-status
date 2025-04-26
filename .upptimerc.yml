@@ -1,22 +1,12 @@
 owner: jaimezpe
 repo: bio-status
-
-sites:
-  - name: Jaimezpe
-    url: https://jaimezpe.com
+sites: 
+  - name: Jaime
+    url: https://www.jaimezpe.com
   - name: Founda
-    url: https://founda.jaimezpe.com
-
+    url: https://www.founda.jaimezpe.com
+assignees: 
+  - AnandChowdhary
 status-website:
   cname: status.jaimezpe.com
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Jaimezpe Status
-  introTitle: "**Jaimezpe Status** - Monitorización de estado de servicios"
-  introMessage: Esta página muestra el estado de jaimezpe.com y sus proyectos en tiempo real.  
-  navbar:
-    - title: Home
-      href: https://jaimezpe.com
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/jaimezpe/status
+  name: Status
