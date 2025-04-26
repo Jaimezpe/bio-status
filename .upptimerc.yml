@@ -8,5 +8,5 @@ sites:
 assignees: 
   - AnandChowdhary
 status-website:
-  cname: status.jaimezpe.com
+  baseUrl: /bio-status
   name: Status
