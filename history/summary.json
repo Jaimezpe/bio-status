@@ -23,17 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.founda.jaimezpe.com.ico",
     "slug": "founda",
     "status": "down",
-    "uptime": "90.23%",
-    "uptimeDay": "90.23%",
-    "uptimeWeek": "90.23%",
-    "uptimeMonth": "90.23%",
-    "uptimeYear": "90.23%",
+    "uptime": "52.96%",
+    "uptimeDay": "52.96%",
+    "uptimeWeek": "52.96%",
+    "uptimeMonth": "52.96%",
+    "uptimeYear": "52.96%",
     "time": 152,
     "timeDay": 152,
     "timeWeek": 152,
     "timeMonth": 152,
     "timeYear": 152,
     "dailyMinutesDown": {
+      "2025-04-27": 76,
       "2025-04-26": 11
     }
   }
