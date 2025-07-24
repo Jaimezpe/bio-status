@@ -4,7 +4,7 @@
     "url": "https://www.jaimezpe.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.jaimezpe.com.ico",
     "slug": "jaime",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2025-07-24": 81,
+      "2025-07-24": 1195,
       "2025-07-23": 1440,
       "2025-07-22": 1440,
       "2025-07-21": 1440,
